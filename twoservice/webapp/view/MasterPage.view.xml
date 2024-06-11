@@ -1,7 +1,7 @@
 <mvc:View controllerName="com.ibspl.twoservice.controller.MasterPage"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="Application">
+    <Page id="page" title="fiori Application ">
         <content />
     </Page>
 </mvc:View>
