@@ -1,7 +1,10 @@
 <mvc:View controllerName="com.ibspl.twoservice.controller.MasterPage"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
-        <content />
+    <Page id="page" title="Application">
+        <content>
+
+            <Text text="welcome to github"/>
+        </content>
     </Page>
 </mvc:View>

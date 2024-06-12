@@ -1,7 +1,10 @@
 <mvc:View controllerName="com.ibspl.demo.controller.View1"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
-        <content />
+    <Page id="page" title="Fiori Application">
+
+        <content>
+        <Text text="Demo Application"/>
+        </content>
     </Page>
 </mvc:View>
